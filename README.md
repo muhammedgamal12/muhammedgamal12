@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...Programming
 - 🌱 I’m currently learning ...Laravel
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...m.gamal2288@mail.com or01096862610
+- 📫 How to reach me ...m.gamal2288@gmail.com or01096862610
 
 <!---
 muhammedgamal12/muhammedgamal12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
